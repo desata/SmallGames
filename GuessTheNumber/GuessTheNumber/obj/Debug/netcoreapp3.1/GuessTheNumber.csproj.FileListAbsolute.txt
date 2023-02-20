@@ -1,0 +1,14 @@
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.exe
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.deps.json
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.runtimeconfig.json
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.runtimeconfig.dev.json
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.dll
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.pdb
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.AssemblyInfo.cs
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.dll
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.pdb
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.genruntimeconfig.cache

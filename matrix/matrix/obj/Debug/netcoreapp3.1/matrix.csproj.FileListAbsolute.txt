@@ -1,0 +1,14 @@
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\bin\Debug\netcoreapp3.1\matrix.exe
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\bin\Debug\netcoreapp3.1\matrix.deps.json
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\bin\Debug\netcoreapp3.1\matrix.runtimeconfig.json
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\bin\Debug\netcoreapp3.1\matrix.runtimeconfig.dev.json
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\bin\Debug\netcoreapp3.1\matrix.dll
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\bin\Debug\netcoreapp3.1\matrix.pdb
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\obj\Debug\netcoreapp3.1\matrix.csproj.AssemblyReference.cache
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\obj\Debug\netcoreapp3.1\matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\obj\Debug\netcoreapp3.1\matrix.AssemblyInfoInputs.cache
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\obj\Debug\netcoreapp3.1\matrix.AssemblyInfo.cs
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\obj\Debug\netcoreapp3.1\matrix.csproj.CoreCompileInputs.cache
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\obj\Debug\netcoreapp3.1\matrix.dll
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\obj\Debug\netcoreapp3.1\matrix.pdb
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\matrix\matrix\obj\Debug\netcoreapp3.1\matrix.genruntimeconfig.cache

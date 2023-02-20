@@ -1,0 +1,14 @@
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.genruntimeconfig.cache

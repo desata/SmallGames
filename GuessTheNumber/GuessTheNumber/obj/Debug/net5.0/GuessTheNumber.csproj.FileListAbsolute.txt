@@ -1,0 +1,5 @@
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\desislava.nikolova\source\repos\Projects\Small Games\GuessTheNumber\GuessTheNumber\obj\Debug\net5.0\GuessTheNumber.csproj.CoreCompileInputs.cache
